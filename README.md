@@ -7,7 +7,10 @@
     </a> here
   </h1>
 </div>
-
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=7E7B8A&center=true&vCenter=true&width=435&lines=Web+Development+%7C+Machine+Learning;Python+%7C+Systems+%7C+AI+" alt="Typing SVG" /></a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=7E7B8A&center=true&vCenter=true&width=435&lines=Web+Development+%7C+Machine+Learning;Python+%7C+Systems+%7C+AI+" alt="Typing SVG" /></a> <br> </br>
+</div> 
+
+<p align="center"><strong>📫 How to reach me - @shagniksarkar07@gmail.com</strong></p>
+
+
