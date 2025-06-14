@@ -1,16 +1,15 @@
-### Hi there 👋
+<img> ![1747063790388](https://github.com/user-attachments/assets/ec126dda-c16f-472f-bbe1-f3ad1ccc97f3)<img>
 
-<!--
-**SHAGNIK007/SHAGNIK007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>
+    <a href="https://www.linkedin.com/in/shagnik-sarkar-180680294/" style="text-decoration: none;">
+      <strong>Shagnik</strong>
+    </a> here.
+  </h1>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
