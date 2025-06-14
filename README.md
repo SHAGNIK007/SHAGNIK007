@@ -4,7 +4,7 @@
   <h1>
     <a href="https://www.linkedin.com/in/shagnik-sarkar-180680294/" style="text-decoration: none;">
       <strong>Shagnik</strong>
-    </a> here.
+    </a> here
   </h1>
 </div>
 
