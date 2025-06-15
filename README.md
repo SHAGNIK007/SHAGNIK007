@@ -24,6 +24,11 @@
 
 ## 📊 GitHub Stats
 
+<hr>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shagnik007&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
@@ -31,6 +36,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagnik007&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shagnik007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
