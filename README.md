@@ -42,6 +42,13 @@
 
 [![An image of @shagnik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shagnik)](https://holopin.io/@shagnik)
 
+<div align="center">
+  
+![snake gif](https://github.com/shagnik007/shagnik007/blob/output/github-snake-dark.svg)
+
+</div>
+
+
 
 
 
